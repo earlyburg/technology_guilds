@@ -97,3 +97,15 @@ If a Guild member breaks the rules of the Guild, they can be expelled from the G
 If a Guild member does something illegal that could harm the Guild, they can be expelled from the Guild.
 
 All Arch Masters will rotate out every 7 years to allow other Masters to provide their service.
+
+---
+
+## Principles
+
+Confidentiality – Preserving authorized restrictions on information access and disclosure, including means for protecting personal privacy and proprietary information.
+
+Integrity – Guarding against improper information modification or destruction and ensuring information non-repudiation and authenticity.
+
+Availability – Ensuring timely and reliable access to and use of information.
+
+https://www.nccoe.nist.gov/publication/1800-26/VolA/index.html
