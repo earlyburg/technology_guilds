@@ -2,7 +2,7 @@
 
 "The technology trade" is inclusive of all technology-related occupations, including software developers, who through their labor produce goods and services which have real value.
 
-In the interest of advancing technology in a more responsible and profitable way, we propose the formation of technology trade guilds, composed of and governed by technology tradespeople.
+In the interest of advancing technology in a more responsible and profitable way, we propose the formation of **technology trade guilds,** composed of and governed by technology tradespeople.
 
 ---
 
@@ -10,13 +10,13 @@ In the interest of advancing technology in a more responsible and profitable way
 
 - **Regulate the technology trades:** Guilds will ensure and regulate the quality of goods and services they produce, maintaining to the highest degree all current accepted standards.
 
-- **Train tradespeople:** Guilds will provide training through apprenticeships, mentoring, and resources to ensure skilled labor meets all current accepted standards.
+- **Train technology tradespeople:** Guilds will provide training through apprenticeships, mentoring, and resources to ensure skilled labor meets all current accepted standards.
 
 - **Protect the interests of the Guild:** Guilds will protect the interests of their members by controlling prices and wages within their geographical area of influence.
 
 - **Support all Guild members:** Aid and assistance will be given to any Guild member in times of sickness or financial hardship to ensure the integrity of the Guild.
 
-- **Maintain monopolies:** Guilds will create exclusive rights to produce and sell high-quality goods and services within their geographical area of influence, through peaceful and legal means.
+- **Maintain technology monopolies:** Guilds will create exclusive rights to produce and sell high-quality goods and services within their geographical area of influence, through peaceful and legal means.
 
 ---
 
@@ -45,7 +45,7 @@ Unlike past ages, the master craftspeople of our information systems do not have
 - A Guildsperson can belong to more than one Guild.
 - A Guildsperson will respect all other Guildspersons from any other Guild, and do their utmost to extend every protection and courtesy to them.
 - A Guildsperson will not do harm in any way to a non-Guildsperson. The privilege of Guild membership places the Guildsperson in a position of service to end users. As such, non-Guild persons shall not be interfered with, held back, disadvantaged, or otherwise affected negatively by the actions and activities of any member of a Guild.
-
+- A Guildsperson can work for any entity they choose to, including those entities not recieving services from or affiliated with a Guild.
 ### Apprentice
 
 A new Guildsperson is dubbed an **Apprentice**, and is free to practice their trade within the boundaries of their Guild's agreed territory, under the supervision of a Master.
