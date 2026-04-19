@@ -44,7 +44,7 @@ Unlike past ages, the master craftspeople of our information systems do not have
 - A Guildsperson can join any Guild in their country of citizenship.
 - A Guildsperson can belong to more than one Guild.
 - A Guildsperson will respect all other Guildspersons from any other Guild, and do their utmost to extend every protection and courtesy to them.
-- A Guildsperson will not do harm in any way to a non-Guildsperson. The privilege of Guild membership places the Guildsperson in a position of service to end users. As such, non-Guild persons shall not be interfered with, held back, disadvantaged, or otherwise affected negatively by the actions and activities of any member of a Guild.
+- A Guildsperson will not do harm in any form to a non-Guildsperson. The privilege of Guild membership places the Guildsperson in a position of service to end users. As such, non-Guild persons shall not be interfered with, held back, disadvantaged, or otherwise affected negatively by the actions and activities of any member of a Guild.
 - A Guildsperson can work for any entity they choose to, including those entities not recieving services from or affiliated with a Guild.
 ### Apprentice
 
@@ -72,9 +72,9 @@ After 7 years as a Journeyperson, the craftsperson will be examined by the Maste
 
 A Master Craftsperson must contribute 2% of their profit gained from the pursuit of tradecraft warranted under their Guild to their Guild every quarter. The contribution can be money, labor, or goods produced or owned by the Master Craftsperson. The 2% will be used to further the interests of the Guild.
 
-A Master Craftsperson will be responsible for the standards, practices, quality, and price of all goods warranted by their Guild.
+A Master Craftsperson will be responsible for the standards, practices, quality, and prices of all goods and services warranted by their Guild.
 
-A Master Craftsperson will always be engaged in training and mentoring Apprentices or Journeypersons.
+A Master Craftsperson will always be engaged in training and mentoring Apprentices and Journeypersons, and will ensure those whom they mentor become an asset to both themselves and their Guild.
 
 A Master Craftsperson may travel and practice their trade outside the boundaries of their Guild, but can only do so at the level of Journeyperson. Master Craftspersons are only deemed Masters within their own Guilds.
 
