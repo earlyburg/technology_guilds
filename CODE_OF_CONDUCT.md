@@ -6,8 +6,6 @@
 
 **Availability** – Ensuring timely and reliable access to and use of information.
 
-https://www.nccoe.nist.gov/publication/1800-26/VolA/index.html
-
 ---
 
 ![NIST CIA Triangle graphic](./imgs/sacred_triangle.png)
