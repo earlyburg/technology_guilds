@@ -28,7 +28,7 @@ There are structured layers of hardware and software that create the internet. A
 
 Technology workers have in the past labored under the restraints of a system of enterprise which curtails the production of quality goods, placing delivery over security, usability, and extensibility.
 
-Technology workers' skill in technology is gained from practicing the craft of technology, and as such should be managed in all aspects by those engaged in the long-term practice of the technology trade — the Masters.
+Technology workers' skill in technology is gained from practicing the craft of technology, and as such should be managed in all aspects by those engaged in the long-term practice of the technology trade — the Technology Master Craftspeople.
 
 The technology business is hard to navigate for everyone. Employers cannot be guaranteed that someone is who they say they are, and technology workers are frequently exploited.
 
@@ -109,3 +109,5 @@ All Arch Masters will rotate out every 7 years to allow other Masters to provide
 **Availability** – Ensuring timely and reliable access to and use of information.
 
 https://www.nccoe.nist.gov/publication/1800-26/VolA/index.html
+
+---
