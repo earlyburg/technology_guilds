@@ -13,3 +13,8 @@ https://www.nccoe.nist.gov/publication/1800-26/VolA/index.html
 ![NIST CIA Triangle graphic](./imgs/sacred_triangle.png)
 
 ---
+
+**Guidelines:**
+1. Guildmembers will make every effort to incorporate the three guiding principles into their craft.
+2. Guildmembers will, when in a professional setting, embody the Three Guiding Principles so as to be an example and inspiration to others.
+3. Guildmembers will always attempt to balance the Three Guiding Principles, so that one principle does not become greater than any other.
