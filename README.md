@@ -41,16 +41,19 @@ Unlike past ages, the master craftspeople of our information systems do not have
 ## Limits
 
 - All Guild activities and practices will be limited to established geo-political areas such as countries, states, provinces, and municipalities to which they are a legal member.
-- A Guildsperson can join any Guild in their country of citizenship.
-- A Guildsperson can belong to more than one Guild.
 - A Guildsperson will respect all other Guildspersons from any other Guild, and do their utmost to extend every protection and courtesy to them.
 - A Guildsperson will not do harm in any form to a non-Guildsperson. The privilege of Guild membership places the Guildsperson in a position of service to end users. As such, non-Guild persons shall not be interfered with, held back, disadvantaged, or otherwise affected negatively by the actions and activities of any member of a Guild.
-- A Guildsperson can work for any entity they choose to, including those entities not recieving services from or affiliated with a Guild.
+- No Guildmember or prospective Guildmember can join any Technology Guild as a Master.
+
+---
+
 ### Apprentice
 
 A new Guildsperson is dubbed an **Apprentice**, and is free to practice their trade within the boundaries of their Guild's agreed territory, under the supervision of a Master.
 
 An Apprentice does not pay Guild dues, but will enjoy freedom under their Guild's umbrella of influence and protection. An Apprentice may not represent the Guild publicly, but is silent and only focuses on craftworking for a period long enough to ensure a high level of skill. An Apprentice can only practice their trade within the geographical area of influence of their Guild.
+
+---
 
 ### Journeyperson
 
@@ -65,6 +68,8 @@ A Journeyperson is free to travel and practice their trade in the areas controll
 When a Journeyperson travels into another Guild's area of geographical influence with the intention of practicing any trade there, they must contribute to the Guild of that area 1% of their profit gained from the pursuit of tradecraft warranted under that Guild. The Journeyperson will remain a member of their home Guild and be required to maintain their contributions to their own Guild for as long as they are a member.
 
 A Journeyperson must become a Master within their own Guild first.
+
+---
 
 ### Master Craftsperson
 
