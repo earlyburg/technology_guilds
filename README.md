@@ -113,6 +113,4 @@ All Arch Masters will rotate out every 7 years to allow other Masters to provide
 
 **Availability** – Ensuring timely and reliable access to and use of information.
 
-https://www.nccoe.nist.gov/publication/1800-26/VolA/index.html
-
 ---
