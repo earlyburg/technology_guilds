@@ -38,12 +38,11 @@ Unlike past ages, the master craftspeople of our information systems do not have
 
 ---
 
-## Limits
+## Inception
 
 - All Guild activities and practices will be limited to established geo-political areas such as countries, states, provinces, and municipalities to which they are a legal member.
 - A Guildsperson will respect all other Guildspersons from any other Guild, and do their utmost to extend every protection and courtesy to them.
 - A Guildsperson will not do harm in any form to a non-Guildsperson. The privilege of Guild membership places the Guildsperson in a position of service to end users. As such, non-Guild persons shall not be interfered with, held back, disadvantaged, or otherwise affected negatively by the actions and activities of any member of a Guild.
-- No Guildmember or prospective Guildmember can join any Technology Guild as a Master.
 
 ---
 
